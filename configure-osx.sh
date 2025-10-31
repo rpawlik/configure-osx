@@ -9,6 +9,7 @@ PACKAGES=(
   weechat
   jq
   foo
+  bar
 )
    
 # Apps to install with cask
