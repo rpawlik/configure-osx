@@ -10,6 +10,7 @@ PACKAGES=(
   jq
   foo
   bar
+  baz
 )
    
 # Apps to install with cask
